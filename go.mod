@@ -1,4 +1,4 @@
-module github.com/hashicorp/terraform-provider-scaffolding-framework
+module github.com/maximluzin/terraform-provider-mailosaur
 
 go 1.17
 
@@ -8,6 +8,7 @@ require (
 	github.com/hashicorp/terraform-plugin-go v0.13.0
 	github.com/hashicorp/terraform-plugin-log v0.7.0
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.20.0
+	github.com/mailosaur/mailosaur-go v0.0.0-20220629161923-f2d986d6f040
 )
 
 require (

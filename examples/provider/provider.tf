@@ -1,3 +1,3 @@
-provider "scaffolding" {
-  # example configuration here
+provider "mailosaur" {
+  api_key = "Test key"
 }
